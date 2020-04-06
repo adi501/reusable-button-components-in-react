@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+
+  text-align: center;
+}
+
+button {
+  padding: 10px 10px;
+
+  border-radius: 15px;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  margin: 0 5px;
+}
+
+.btn-red {
+  background-color: #e14d4d;
+
+  color: #d9abab;
+}
+
+.btn-green {
+  background-color: green;
+
+  color: #e0a2d2;
+}
+
+.btn-blue {
+  background-color: blue;
+
+  color: #4e6f64;
+}
+
+.container {
+  border: 2px solid red;
+
+  padding: 10px;
+}
